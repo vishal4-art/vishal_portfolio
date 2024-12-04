@@ -1,6 +1,6 @@
 # vishal_portfolio
 Data Analyst portfolio
-# Project 1: ["Zomato Data Analysis: Uncovering Patterns in Customer Ordering"])("zomato_project11.ipynb)
+# Project 1: ["Zomato Data Analysis: Uncovering Patterns in Customer Ordering"])(zomato_project11.ipynb)
 Zomato Customer Order Analysis Project Overview
 Objective:
 The project aims to analyze Zomato customer order data to uncover key trends, customer preferences, and patterns that can help enhance business decision-making and customer satisfaction.
